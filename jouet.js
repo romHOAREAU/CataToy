@@ -1,12 +1,12 @@
 class Jouet {
-    constructor(libelle){
-                this._libelle = libelle;
-            }
 
+    constructor(unLibelle){
+        this._libelle = unLibelle;
+    }
 
     get libelle(){
-                return this._libelle;
-            }
+        return this._libelle;
+    }
 
 }
 module.exports = Jouet;
