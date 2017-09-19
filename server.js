@@ -12,3 +12,5 @@ console.log(categorie1.libelle);
 
 let unJouet = new Jouet("Draisienne junior bleue",tranche25);
 console.log(unJouet.trancheAge);
+
+//test
